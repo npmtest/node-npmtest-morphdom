@@ -1,4 +1,7 @@
-# test coverage for  [morphdom (v2.3.2)](https://github.com/patrick-steele-idem/morphdom#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-morphdom.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-morphdom) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-morphdom.svg)](https://travis-ci.org/npmtest/node-npmtest-morphdom)
+# npmtest-morphdom
+
+#### test coverage for  [morphdom (v2.3.2)](https://github.com/patrick-steele-idem/morphdom#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-morphdom.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-morphdom) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-morphdom.svg)](https://travis-ci.org/npmtest/node-npmtest-morphdom)
+
 #### Morph a DOM tree to another DOM tree (no virtual DOM needed)
 
 [![NPM](https://nodei.co/npm/morphdom.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/morphdom)
